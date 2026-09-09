@@ -1,16 +1,14 @@
 # Sistema de Gestión de Inventario - TechStore
 
 ## 1. Descripción del Proyecto
-Escribe aquí un resumen de 2 líneas sobre un sistema de ventas. Utiliza **texto en negrita** para resaltar las características clave y *texto en cursiva* para el nombre de la empresa.
+El **Sistema de Gestión de Inventario** permite automatizar el registro de productos, control de stock y facturación para *TechStore*. Ofrece una administración centralizada y eficiente de las operaciones comerciales de la empresa.
 
 ## 2. Requisitos del Sistema
-Crea una lista de tareas (checklists) con los siguientes requisitos:
 - [x] Python 3.10 o superior instalado
 - [x] Base de Datos MySQL configurada
 - [ ] Documentación técnica completada
 
 ## 3. Módulos del Sistema
-Crea una tabla en Markdown con la siguiente estructura:
 
 | Módulo | Descripción | Estado |
 | :--- | :--- | :---: |
@@ -18,16 +16,9 @@ Crea una tabla en Markdown con la siguiente estructura:
 | Inventario | Registro y conteo de productos | En Proceso |
 | Facturación | Generación de comprobantes de pago | Pendiente |
 
-## 4. Ejemplo de Código Fuente
-Inserta un bloque de código en Python formateado adecuadamente que contenga el siguiente algoritmo básico:
-
+## 4. Código del Sistema
 ```python
-def verificar_stock(cantidad):
-    if cantidad > 0:
-        return "Producto Disponible"
-    else:
-        return "Sin Stock"
-```
+def calcular_total(precio, cantidad):
+    return precio * cantidad
 
-## 5. Enlaces Útiles
-- [Repositorio Oficial en GitHub](https://github.com)
+print("Sistema TechStore iniciado con éxito")
