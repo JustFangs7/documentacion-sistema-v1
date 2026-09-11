@@ -22,3 +22,10 @@ def calcular_total(precio, cantidad):
     return precio * cantidad
 
 print("Sistema TechStore iniciado con éxito")
+```
+
+## 5. Enlaces Útiles
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Manual de Usuario](docs/manual_usuario.md)
+- [Ver Especificación de API](docs/api_endpoints.md)
+- [Repositorio Oficial en GitHub](https://github.com/JustFangs7/documentacion-sistema-v1)

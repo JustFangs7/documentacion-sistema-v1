@@ -1,11 +1,14 @@
 # Documentación de Arquitectura del Sistema
-## 3. Navegación
-Paso 3: Vinculación desde el README.md Principal
-1. Abre tu archivo README.md principal.
-2. Ve a la Sección 5 (Enlaces Útiles) y agrega el enlace relativo hacia la nueva documentación de arquitectura.
-3. El apartado 5 debe quedar redactado exactamente así:
 
-## 5. Enlaces Útiles
-- [Ver Arquitectura del Sistema](docs/arquitectura.md)
-- [Repositorio Oficial en GitHub](https://github.com/TU_USUARIO/documentacion-sistema-v1)
-4. Haz clic en la Vista Previa (Ctrl + Shift + V) y prueba hacer clic en el enlace "Ver Arquitectura del Sistema". Debe abrirte automáticamente el archivo arquitectura.md.
+## 1. Visión General
+El **Sistema de Gestión de Inventario** de *TechStore* está diseñado bajo una estructura cliente-servidor modular, conectando la interfaz de usuario con servicios web en Python y una base de datos relacional.
+
+## 2. Componentes de la Arquitectura
+- **Frontend (Interfaz):** Vistas dinámicas para el control de inventario y facturación.
+- **Backend (API):** Servicios en Python que procesan la lógica de negocio y las peticiones HTTP.
+- **Base de Datos:** Sistema MySQL para el almacenamiento seguro de productos, usuarios y transacciones.
+
+## 3. Navegación del Proyecto
+- [Ver Manual de Usuario](manual_usuario.md)
+- [Ver Especificación de API](api_endpoints.md)
+- [Volver al README Principal](../README.md)
