@@ -1,3 +1,7 @@
+# Portal Web de Documentación
+
+**Sitio Web en Vivo:** [Haz clic aquí para ver la Documentación Publicada](https://tu-
+usuario.github.io/nombre-repositorio)
 # Sistema de Gestión de Inventario - TechStore
 
 ## 1. Descripción del Proyecto
