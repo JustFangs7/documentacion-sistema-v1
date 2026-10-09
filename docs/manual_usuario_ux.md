@@ -22,11 +22,11 @@ para recuperarla.
 3. **Confirmar:** Presiona **"Guardar"** para almacenar los cambios.
 ## 🎥 Videotutorial del Proyecto
 
-A continuación, se presenta la demostración del funcionamiento de la aplicación en video:
+A continuación se muestra la guía en video de la aplicación:
 
 <video width="100%" controls>
   <source src="videos/videotutorial_proyecto.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de video en HTML5.
+  Tu navegador no soporta la reproducción de video HTML5.
 </video>
 
-* **Enlace de acceso directo:** [Ver / Descargar Videotutorial del Proyecto](videos/videotutorial_proyecto.mp4)
+* **Enlace directo al video:** [Ver / Descargar Videotutorial](videos/videotutorial_proyecto.mp4)
