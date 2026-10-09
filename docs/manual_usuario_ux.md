@@ -20,3 +20,13 @@ para recuperarla.
 1. **Seleccionar Opción:** Toca el icono **"+"** ubicado en la esquina superior derecha.
 2. **Completar Formulario:** Llena los campos marcados como obligatorios.
 3. **Confirmar:** Presiona **"Guardar"** para almacenar los cambios.
+## 🎥 Videotutorial del Proyecto
+
+A continuación, se presenta la demostración del funcionamiento de la aplicación en video:
+
+<video width="100%" controls>
+  <source src="videos/videotutorial_proyecto.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video en HTML5.
+</video>
+
+* **Enlace de acceso directo:** [Ver / Descargar Videotutorial del Proyecto](videos/videotutorial_proyecto.mp4)
