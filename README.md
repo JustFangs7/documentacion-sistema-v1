@@ -46,3 +46,7 @@ print("Sistema TechStore iniciado con éxito")
 * [Guía de Usuario UX](manual_usuario_ux.md)
 * [Módulo de Seguridad](seguridad.md)
 * [Arquitectura de Despliegue](arquitectura_despliegue.md)
+## Licencia y Gobernanza
+* Este proyecto se distribuye bajo los términos de la **[Licencia MIT](LICENSE)**.
+* Consulta nuestra **[Guía de Contribución](CONTRIBUTING.md)** para reportar fallos o
+proponer mejoras.
